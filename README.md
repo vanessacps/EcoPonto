@@ -1,1 +1,1 @@
-# EcoPonto
+# eco-ponto
